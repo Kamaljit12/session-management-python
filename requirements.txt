@@ -5,3 +5,5 @@ ipykernel
 groq
 python-dotenv
 langchain
+#======database=========
+sqlalchemy
